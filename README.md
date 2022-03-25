@@ -1,1 +1,1 @@
-# Art
+#![gitartwork](gitartwork.svg)
